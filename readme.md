@@ -1,5 +1,5 @@
 # Class finder by Tomasz Tórz
-A implementation of a class finder functionality for Codeborne.
+An implementation of a class finder functionality for Codeborne.
 
 ## Functionality
 
